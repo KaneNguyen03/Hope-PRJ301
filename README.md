@@ -7,50 +7,51 @@ Have a nice day! Everyone can check this file to know all about this project:
 -----------------------------PRJ301 CLASS SE1714-06------------------------
 
 # **Project: Jackets Online Shop (Web bán áo khoác)**
-Members:Đinh Gia Huy
-		Nguyễn Xuân Kha
-		Lại Nguyễn Minh Quân
+Members: 
+Đinh Gia Huy 
+Nguyễn Xuân Kha
+Lại Nguyễn Minh Quân
 
 # **PRODUCT DESCRIPTION**
 
 1.	REQUIREMENT:<br>
-a.	Name of system: Selling jackets online shop
-b.	Purpose: This project aims to provide consumers with jacket products
-c.	Who use this system: aim to adult people from 16-3x years old
-d.	List all feature:
--See/Add/Modify/Delete information of products/ customers/ providers
--Search/ sort product by name
--Save/delete customer’s orders
--Login
--Blog
--View gallery
+a.	Name of system: Selling jackets online shop<br>
+b.	Purpose: This project aims to provide consumers with jacket products<br>
+c.	Who use this system: aim to adult people from 16-3x years old<br>
+d.	List all feature:<br>
+-See/Add/Modify/Delete information of products/ customers/ providers<br>
+-Search/ sort product by name<br>
+-Save/delete customer’s orders<br>
+-Login<br>
+-Blog<br>
+-View gallery<br>
 
 
-# *Admin:*
--See/Add/Modify/Delete information of products/ customers/ providers
--Search/ sort product by name
--Save/delete customer’s orders into database
--Manage customer’s account
--Share blog
--Export customer’s order to barn
+# *Admin:*<br>
+-See/Add/Modify/Delete information of products/ customers/ providers<br>
+-Search/ sort product by name<br>
+-Save/delete customer’s orders into database<br>
+-Manage customer’s account<br>
+-Share blog<br>
+-Export customer’s order to barn<br>
 
-# *User:*
--See information of products/ providers
--Search/ sort product by name
--Make orders
--Comment
--Login
--View Blog
--View gallery
+# *User:*<br>
+-See information of products/ providers<br>
+-Search/ sort product by name<br>
+-Make orders<br>
+-Comment<br>
+-Login<br>
+-View Blog<br>
+-View gallery<br>
 
-# **2. UI WEB TARGET DESIGN:**
-a.	 Main page:
+# **2. UI WEB TARGET DESIGN:**<br>
+a.	 Main page:<br>
 <img src="./windowDes/mainpage.png">
-b.   Address page:
+b.   Address page:<br>
 <img src="./windowDes/adressSpace.png">
-c.   Products store:
+c.   Products store:<br>
 <img src="./windowDes/productStore.png">
-d.   Cart
+d.   Cart<br>
 <img src="./windowDes/cart.png">
-e.   Address bar
+e.   Address bar<br>
 <img src="./windowDes/footer.png">
