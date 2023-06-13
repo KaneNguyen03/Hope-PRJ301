@@ -7,10 +7,10 @@ Have a nice day! Everyone can check this file to know all about this project:
 -----------------------------PRJ301 CLASS SE1714-06------------------------
 
 # **Project: Jackets Online Shop (Web bán áo khoác)**
-Members: 
-Đinh Gia Huy 
-Nguyễn Xuân Kha
-Lại Nguyễn Minh Quân
+Members: <br>
+Đinh Gia Huy <br>
+Nguyễn Xuân Kha<br>
+Lại Nguyễn Minh Quân<br>
 
 # **PRODUCT DESCRIPTION**
 
