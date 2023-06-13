@@ -28,7 +28,8 @@
 
 -View gallery
 
-Admin:
+
+**Admin:**
 
 -See/Add/Modify/Delete information of products/ customers/ providers
 
@@ -42,7 +43,8 @@ Admin:
 
 -Export customer’s order to barn
 
-User:
+
+**User:**
 
 -See information of products/ providers
 
