@@ -11,10 +11,10 @@
 # **PRODUCT DESCRIPTION**
 
 1. **REQUIREMENT:**
-1. Name of system: Selling jackets online shop
-1. Purpose: This project aims to provide consumers with jacket products
-1. Who use this system: aim to adult people from 16-3x years old
-1. List all feature:
+- Name of system: Selling jackets online shop
+- Purpose: This project aims to provide consumers with jacket products
+- Who use this system: aim to adult people from 16-3x years old
+- List all feature:
 
 -See/Add/Modify/Delete information of products/ customers/ providers
 
@@ -62,7 +62,7 @@
 
 **2. UI WEB TARGET DESIGN:**
 
-1. ` `Main page:
+1. Main page:
 
 
 
@@ -74,16 +74,16 @@
 
 
 
-1. Address page
+2. Address page
 
 
 
 
-1. Products store
+3. Products store
 
 
-1. Cart
-1. Address bar
+4. Cart
+5. Address bar
 
 
 
