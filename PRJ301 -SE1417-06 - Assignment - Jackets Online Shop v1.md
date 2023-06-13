@@ -11,8 +11,8 @@
 # **PRODUCT DESCRIPTION**
 
 1. **REQUIREMENT:**
-- Name of system: Selling jackets online shop
-- Purpose: This project aims to provide consumers with jacket products
+- Name of system: Selling jackets online shop 
+- Purpose: This project aims to provide consumers with jacket products (Winter jacket, summer jacket, Uniform for company, school, Fashion luxury jacket...)
 - Who use this system: aim to adult people from 16-3x years old
 - List all feature:
 
