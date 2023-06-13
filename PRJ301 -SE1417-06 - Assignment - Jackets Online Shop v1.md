@@ -8,7 +8,7 @@
 
 `		`Lại Nguyễn Minh Quân
 
-**PRODUCT DESCRIPTION**
+# **PRODUCT DESCRIPTION**
 
 1. **REQUIREMENT:**
 1. Name of system: Selling jackets online shop
@@ -29,7 +29,7 @@
 -View gallery
 
 
-**Admin:**
+# **Admin:**
 
 -See/Add/Modify/Delete information of products/ customers/ providers
 
@@ -44,7 +44,7 @@
 -Export customer’s order to barn
 
 
-**User:**
+# **User:**
 
 -See information of products/ providers
 
