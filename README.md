@@ -3,9 +3,10 @@
 PRJ301 CLASS SE1714-06
 
 Project: Jackets Online Shop (Web bán áo khoác)
-Members: 	Đinh Gia Huy <br>
-		Nguyễn Xuân Kha <br>
-		Lại Nguyễn Minh Quân <br>
+Members: <br>
+Đinh Gia Huy <br>
+Nguyễn Xuân Kha <br>
+Lại Nguyễn Minh Quân <br>
 		<br></br>
 
 # PRODUCT DESCRIPTION
@@ -62,15 +63,13 @@ Ensure the website is responsive and optimized for mobile devices to provide a s
 # 2. UI WEB TARGET DESIGN:
 <br>
 
-
-# **2. UI WEB TARGET DESIGN:**<br>
 a.	 Main page:<br>
-<img src="./windowDes/mainpage.png">
-b.   Address page:<br>
-<img src="./windowDes/adressSpace.png">
-c.   Products store:<br>
-<img src="./windowDes/productStore.png">
-d.   Cart<br>
-<img src="./windowDes/cart.png">
-e.   Address bar<br>
-<img src="./windowDes/footer.png">
+<img src="./windowDes/Base.png">
+b.   Feedback:<br>
+<img src="./windowDes/Feedback.png">
+c.   Gallery store:<br>
+<img src="./windowDes/Gallery.png">
+d.   Sellect Size<br>
+<img src="./windowDes/Gợi ý chọn size.png">
+e.   Jacket's Category<br>
+<img src="./windowDes/Jacket's Category - Jackets for men.png">
