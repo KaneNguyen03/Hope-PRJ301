@@ -12,25 +12,25 @@ Lại Nguyễn Minh Quân <br>
 # PRODUCT DESCRIPTION
 
 # REQUIREMENT:
-Name of system:
-Selling jackets online shop
+* a.Name of system:
+- Selling jackets online shop
 
-* Purpose: 
-The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. 
+* b.Purpose: 
+- The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. 
 <br>
 
-* The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
-Who use this system: 
+- The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
+* c.Who use this system: 
 <br>
 
-*  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense.
+-  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense.
 <br>
 
-* List all feature:
-User Registration and Authentication:
-Users should be able to create accounts and log in securely.
-Implement password encryption and secure authentication mechanisms.
-Provide options for users to recover forgotten passwords.
+* d.List all feature:
+- User Registration and Authentication: <br>
+-- Users should be able to create accounts and log in securely. <br>
+-- Implement password encryption and secure authentication mechanisms. <br>
+-- Provide options for users to recover forgotten passwords. <br>
 <br>
 
 * Jacket Catalog:
@@ -69,7 +69,21 @@ b.   Feedback:<br>
 <img src="./GUI assignment/Feedback - xem xét thay đổi cần thêm feedback detail card.png">
 c.   Gallery store:<br>
 <img src="./GUI assignment/Gallery - cần thêm 1 bản có sản phẩm để cho thầy thấy.png">
-d.   Sellect Size<br>
+d.   Sellect Size:<br>
 <img src="./GUI assignment/Gợi ý chọn size.png">
-e.   Jacket's Category<br>
+e.   Jacket's Category for Men:<br>
 <img src="./GUI assignment/Jacket's Category - Jackets for men.png">
+7.   Jacket's Category for Women:<br>
+<img src="./GUI assignment/Jacket's Category - Jackets for women.png">
+8.   Login:<br>
+<img src="./GUI assignment/Login.png">
+9.   ProductCard:<br>
+<img src="./GUI assignment/ProductCard details.png">
+10.  Search bar:<br>
+<img src="./GUI assignment/SearchBar.png">
+11.  Confirm order:<br>
+<img src="./GUI assignment/confirm order.png">
+12. Order:<br>
+<img src="./GUI assignment/order.png">
+13. Register:<br>
+<img src="./GUI assignment/register.png">
