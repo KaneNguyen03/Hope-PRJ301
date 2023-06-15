@@ -1,48 +1,47 @@
 # prj301-se1714-06
 
-Have a nice day! Everyone can check this file to know all about this project:
+PRJ301 CLASS SE1714-06
 
--PRJ301 -SE1417-06 - Assignment - Jackets Online Shop 
+Project: Jackets Online Shop (Web bán áo khoác)
+Members: 	Đinh Gia Huy
+		Nguyễn Xuân Kha
+		Lại Nguyễn Minh Quân
 
------------------------------PRJ301 CLASS SE1714-06------------------------
+PRODUCT DESCRIPTION
 
-# **Project: Jackets Online Shop (Web bán áo khoác)**
-Members: <br>
-Đinh Gia Huy <br>
-Nguyễn Xuân Kha<br>
-Lại Nguyễn Minh Quân<br>
+REQUIREMENT:
+Name of system:
+ Selling jackets online shop
+Purpose: 
+The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
+Who use this system: 
+The project targets young and middle-aged customers who have a youthful and dynamic fashion sense.
+List all feature:
+User Registration and Authentication:
+Users should be able to create accounts and log in securely.
+Implement password encryption and secure authentication mechanisms.
+Provide options for users to recover forgotten passwords.
+Jacket Catalog:
+Display jackets in an organized and visually appealing manner.
+Include jacket details such as title, description, price, sizes, colors, and images.
+Allow users to filter and sort jackets based on different criteria (e.g., price, size, gender).
+Implement a search functionality for users to find jackets based on keywords or specific attributes.
+Show more relative jackets based on brand, name, …
+Shopping Cart and Checkout:
+Enable users to add jackets to a shopping cart.
+Provide options to update quantities, remove items, and calculate the total cost.
+Collect and validate user shipping information during the checkout process.
+Inventory Management:
+Track jacket availability and manage stock levels.
+Update inventory in real-time when jackets are added or purchased.
+Implement notifications or alerts for low stock levels to ensure timely restocking.
+Customer Reviews:
+Allow customers to leave reviews by images for jackets they have purchased.
+Display customer reviews on jacket detail pages.
+Mobile Responsiveness:
+Ensure the website is responsive and optimized for mobile devices to provide a seamless browsing experience.
+2. UI WEB TARGET DESIGN:
 
-# **PRODUCT DESCRIPTION**
-
-1.	REQUIREMENT:<br>
-a.	Name of system: Selling jackets online shop<br>
-b.	Purpose: This project aims to provide consumers with jacket products<br>
-c.	Who use this system: aim to adult people from 16-3x years old<br>
-d.	List all feature:<br>
--See/Add/Modify/Delete information of products/ customers/ providers<br>
--Search/ sort product by name<br>
--Save/delete customer’s orders<br>
--Login<br>
--Blog<br>
--View gallery<br>
-
-
-# *Admin:*<br>
--See/Add/Modify/Delete information of products/ customers/ providers<br>
--Search/ sort product by name<br>
--Save/delete customer’s orders into database<br>
--Manage customer’s account<br>
--Share blog<br>
--Export customer’s order to barn<br>
-
-# *User:*<br>
--See information of products/ providers<br>
--Search/ sort product by name<br>
--Make orders<br>
--Comment<br>
--Login<br>
--View Blog<br>
--View gallery<br>
 
 # **2. UI WEB TARGET DESIGN:**<br>
 a.	 Main page:<br>
