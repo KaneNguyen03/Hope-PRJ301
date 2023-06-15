@@ -13,7 +13,7 @@ Lại Nguyễn Minh Quân <br>
 
 # REQUIREMENT:
 * a.Name of system:
- + Selling jackets online shop
+ ''' Selling jackets online shop '''
 
 * b.Purpose: 
 + The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. 
