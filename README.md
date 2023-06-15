@@ -64,12 +64,12 @@ Ensure the website is responsive and optimized for mobile devices to provide a s
 <br>
 
 a.	 Main page:<br>
-<img src="./windowDes/Base.png">
+<img src="./GUI assignment/Base.png">
 b.   Feedback:<br>
-<img src="./windowDes/Feedback.png">
+<img src="./GUI assignment/Feedback - xem xét thay đổi cần thêm feedback detail card.png">
 c.   Gallery store:<br>
-<img src="./windowDes/Gallery.png">
+<img src="./GUI assignment/Gallery - cần thêm 1 bản có sản phẩm để cho thầy thấy.png">
 d.   Sellect Size<br>
-<img src="./windowDes/Gợi ý chọn size.png">
+<img src="./GUI assignment/Gợi ý chọn size.png">
 e.   Jacket's Category<br>
-<img src="./windowDes/Jacket's Category - Jackets for men.png">
+<img src="./GUI assignment/Jacket's Category - Jackets for men.png">
