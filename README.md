@@ -24,10 +24,10 @@ Lại Nguyễn Minh Quân <br>
 <br>
 
 * List all feature: <br>
-- User Registration and Authentication: ** <br>
-   Users should be able to create accounts and log in securely. ** <br>
-   Implement password encryption and secure authentication mechanisms. ** <br>
-   Provide options for users to recover forgotten passwords. ** <br>
+** User Registration and Authentication: ** <br>
+   Users should be able to create accounts and log in securely.  <br>
+   Implement password encryption and secure authentication mechanisms.  <br>
+   Provide options for users to recover forgotten passwords.  <br>
 <br>
 
 * Jacket Catalog: <br>
