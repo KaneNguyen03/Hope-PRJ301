@@ -31,12 +31,12 @@ Lại Nguyễn Minh Quân <br>
 <br>
 
  @ Jacket Catalog: <br>
-    Display jackets in an organized and visually appealing manner. <br>
-    Include jacket details such as title, description, price, sizes, colors, and images.
-    Allow users to filter and sort jackets based on different criteria (e.g., price, size, gender).
-    Implement a search functionality for users to find jackets based on keywords or specific attributes.
-    Show more relative jackets based on brand, name, …
-<br>
+    |	Display jackets in an organized and visually appealing manner. <br>
+    |	Include jacket details such as title, description, price, sizes, colors, and images.
+    |	Allow users to filter and sort jackets based on different criteria (e.g., price, size, gender).
+    |	Implement a search functionality for users to find jackets based on keywords or specific attributes.
+    |	Show more relative jackets based on brand, name, … <br>
+
 
  @ Shopping Cart and Checkout:  <br>
     Enable users to add jackets to a shopping cart. <br>
