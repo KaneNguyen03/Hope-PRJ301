@@ -2,7 +2,8 @@
 
 PRJ301 CLASS SE1714-06
 
-Project: Jackets Online Shop (Web bán áo khoác)
+Project: Jackets Online Shop (Web bán áo khoác) <br>
+
 Members: <br>
 Đinh Gia Huy <br>
 Nguyễn Xuân Kha <br>
@@ -11,33 +12,32 @@ Lại Nguyễn Minh Quân <br>
 
 # PRODUCT DESCRIPTION
 
-# REQUIREMENT:
-* a.Name of system:
+# REQUIREMENT: <br>
+* Name of system: <br>
   Selling jackets online shop
 
-* b.Purpose: 
-| ** The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. 
+* Purpose: <br>
+| ** The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. **
 <br>
 
-| ** The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
-* c.Who use this system: 
+| ** The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives: **
+* Who use this system: <br>
+
+| **  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense. **
 <br>
 
-| **  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense.
+* List all feature: <br>
+| ** User Registration and Authentication: ** <br>
+| ** Users should be able to create accounts and log in securely. ** <br>
+| ** Implement password encryption and secure authentication mechanisms. ** <br>
+| ** Provide options for users to recover forgotten passwords. ** <br>
 <br>
 
-* d.List all feature:
-| ** User Registration and Authentication: <br>
-| ** Users should be able to create accounts and log in securely. <br>
-| ** Implement password encryption and secure authentication mechanisms. <br>
-| ** Provide options for users to recover forgotten passwords. <br>
-<br>
-
-* Jacket Catalog:
-| ** Display jackets in an organized and visually appealing manner.
-| ** Include jacket details such as title, description, price, sizes, colors, and images.
-| ** Allow users to filter and sort jackets based on different criteria (e.g., price, size, gender).
-| ** Implement a search functionality for users to find jackets based on keywords or specific attributes.
+* Jacket Catalog: <br>
+| ** Display jackets in an organized and visually appealing manner. **  <br>
+| ** Include jacket details such as title, description, price, sizes, colors, and images. ** 
+| ** Allow users to filter and sort jackets based on different criteria (e.g., price, size, gender). **
+| ** Implement a search functionality for users to find jackets based on keywords or specific attributes. **
 | ** Show more relative jackets based on brand, name, …
 <br>
 
