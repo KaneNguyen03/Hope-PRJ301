@@ -17,10 +17,10 @@ Lại Nguyễn Minh Quân <br>
 >  Selling jackets online shop
 
 * Purpose: <br>
-|  The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form.  <br>
-|  The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:  <br>
+>  The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form.  <br>
+>  The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:  <br>
 * Who use this system: <br>
-|  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense. <br>
+>  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense. <br>
 
 * List all feature: <br>
  @ User Registration and Authentication:  <br>
