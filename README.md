@@ -51,27 +51,27 @@ Lại Nguyễn Minh Quân <br>
 # 2. UI WEB TARGET DESIGN:
 <br>
 
-a.	 Main page:<br>
+1.   Main page:<br>
 <img src="./GUI assignment/Base.png">
-b.   Feedback:<br>
-<img src="./GUI assignment/Feedback - xem xét thay đổi cần thêm feedback detail card.png">
-c.   Gallery store:<br>
-<img src="./GUI assignment/Gallery - cần thêm 1 bản có sản phẩm để cho thầy thấy.png">
-d.   Sellect Size:<br>
-<img src="./GUI assignment/Gợi ý chọn size.png">
-e.   Jacket's Category for Men:<br>
-<img src="./GUI assignment/Jacket's Category - Jackets for men.png">
-7.   Jacket's Category for Women:<br>
-<img src="./GUI assignment/Jacket's Category - Jackets for women.png">
-8.   Login:<br>
-<img src="./GUI assignment/Login.png">
-9.   ProductCard:<br>
-<img src="./GUI assignment/ProductCard details.png">
-10.  Search bar:<br>
+2.  Search bar:<br>
 <img src="./GUI assignment/SearchBar.png">
-11.  Confirm order:<br>
-<img src="./GUI assignment/confirm order.png">
-12. Order:<br>
+3.   Jacket's Category for Men:<br>
+<img src="./GUI assignment/Jacket's Category - Jackets for men.png">
+4.   Jacket's Category for Women:<br>
+<img src="./GUI assignment/Jacket's Category - Jackets for women.png">
+5.   ProductCard:<br>
+<img src="./GUI assignment/ProductCard details.png">
+6.   Sellect Size:<br>
+<img src="./GUI assignment/Gợi ý chọn size.png">
+7.   Gallery store:<br>
+<img src="./GUI assignment/Gallery - cần thêm 1 bản có sản phẩm để cho thầy thấy.png">
+8. Order:<br>
 <img src="./GUI assignment/order.png">
-13. Register:<br>
+9.  Confirm order:<br>
+<img src="./GUI assignment/confirm order.png">
+10.   Login:<br>
+<img src="./GUI assignment/Login.png">
+11. Register:<br>
 <img src="./GUI assignment/register.png">
+12.   Feedback:<br>
+<img src="./GUI assignment/Feedback - xem xét thay đổi cần thêm feedback detail card.png">
