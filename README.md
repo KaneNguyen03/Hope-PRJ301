@@ -13,24 +13,24 @@ Lại Nguyễn Minh Quân <br>
 
 # REQUIREMENT:
 * a.Name of system:
-- Selling jackets online shop
+ + Selling jackets online shop
 
 * b.Purpose: 
-- The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. 
++ The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. 
 <br>
 
-- The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
++ The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
 * c.Who use this system: 
 <br>
 
--  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense.
++  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense.
 <br>
 
 * d.List all feature:
-- User Registration and Authentication: <br>
--- Users should be able to create accounts and log in securely. <br>
--- Implement password encryption and secure authentication mechanisms. <br>
--- Provide options for users to recover forgotten passwords. <br>
++ User Registration and Authentication: <br>
++ Users should be able to create accounts and log in securely. <br>
++ Implement password encryption and secure authentication mechanisms. <br>
++ Provide options for users to recover forgotten passwords. <br>
 <br>
 
 * Jacket Catalog:
