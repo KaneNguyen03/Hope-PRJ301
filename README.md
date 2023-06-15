@@ -3,18 +3,18 @@
 PRJ301 CLASS SE1714-06
 
 Project: Jackets Online Shop (Web bán áo khoác)
-Members: 	Đinh Gia Huy
-		Nguyễn Xuân Kha
-		Lại Nguyễn Minh Quân
+Members: 	Đinh Gia Huy <br>
+		Nguyễn Xuân Kha <br>
+		Lại Nguyễn Minh Quân <br>
 		<br></br>
 
-PRODUCT DESCRIPTION
+##PRODUCT DESCRIPTION
 
 REQUIREMENT:
 Name of system:
 Selling jackets online shop
 
-#**Purpose: **
+**Purpose: **
 The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. 
 
 The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
