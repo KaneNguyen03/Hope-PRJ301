@@ -64,7 +64,7 @@ Lại Nguyễn Minh Quân <br>
 6.   Sellect Size:<br>
 <img src="./GUI assignment/Gợi ý chọn size.png">
 7.   Gallery store:<br>
-<img src="./GUI assignment/Gallery - cần thêm 1 bản có sản phẩm để cho thầy thấy.png">
+<img src="./GUI assignment/Gallery - cần thêm 1 bảng có sản phẩm để cho thầy thấy.png">
 8. Order:<br>
 <img src="./GUI assignment/order.png">
 9.  Confirm order:<br>
