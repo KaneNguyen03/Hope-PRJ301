@@ -18,11 +18,11 @@ Selling jackets online shop
 The purpose of the "Selling Jackets Online Shop" project is to establish an online platform that allows us (web developers) to act as a seller, receiving products from suppliers and selling to customers, Customers can choose and buy jackets conveniently through the online form. 
 <br>
 
-The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
+* The project aims to provide a seamless and enjoyable shopping experience for customers while meeting the following objectives:
 Who use this system: 
 <br>
 
-The project targets young and middle-aged customers who have a youthful and dynamic fashion sense.
+*  The project targets young and middle-aged customers who have a youthful and dynamic fashion sense.
 <br>
 
 * List all feature:
@@ -46,13 +46,13 @@ Provide options to update quantities, remove items, and calculate the total cost
 Collect and validate user shipping information during the checkout process.
 <br>
 
-Inventory Management:
+* Inventory Management:
 Track jacket availability and manage stock levels.
 Update inventory in real-time when jackets are added or purchased.
 Implement notifications or alerts for low stock levels to ensure timely restocking.
 <br>
 
-Customer Reviews:
+* Customer Reviews:
 Allow customers to leave reviews by images for jackets they have purchased.
 Display customer reviews on jacket detail pages.
 Mobile Responsiveness:
