@@ -52,26 +52,30 @@ Lại Nguyễn Minh Quân <br>
 <br>
 
 1.   Main page:<br>
-<img src="./GUI assignment/Base.png">
+<img src="./GUI assignment/1Base.png">
 2.  Search bar:<br>
-<img src="./GUI assignment/SearchBar.png">
-3.   Jacket's Category for Men:<br>
-<img src="./GUI assignment/Jacket's Category - Jackets for men.png">
-4.   Jacket's Category for Women:<br>
-<img src="./GUI assignment/Jacket's Category - Jackets for women.png">
-5.   ProductCard:<br>
-<img src="./GUI assignment/ProductCard details.png">
-6.   Sellect Size:<br>
-<img src="./GUI assignment/Gợi ý chọn size.png">
-7.   Gallery store:<br>
-<img src="./GUI assignment/Gallery - cần thêm 1 bảng có sản phẩm để cho thầy thấy.png">
-8. Order:<br>
-<img src="./GUI assignment/order.png">
-9.  Confirm order:<br>
-<img src="./GUI assignment/confirm order.png">
-10.   Login:<br>
-<img src="./GUI assignment/Login.png">
-11. Register:<br>
-<img src="./GUI assignment/register.png">
-12.   Feedback:<br>
-<img src="./GUI assignment/Feedback - xem xét thay đổi cần thêm feedback detail card.png">
+<img src="./GUI assignment/2SearchBar.png">
+3.   Jacket's Category:<br>
+<img src="./GUI assignment/3JacketCategory.png">
+4.   Jacket's Category for Men:<br>
+<img src="./GUI assignment/4JacketForMen.png">
+5.   Jacket's Category for Women:<br>
+<img src="./GUI assignment/5JacketForWomen.png">
+6.   ProductCard:<br>
+<img src="./GUI assignment/6ProductCard.png">
+7.   Sellect Size:<br>
+<img src="./GUI assignment/7Size.png">
+8.   Gallery store:<br>
+<img src="./GUI assignment/8Gallery.png">
+9.   Gallery Product:<br>
+<img src="./GUI assignment/9GalleryProd.png">
+10.   Order:<br>
+<img src="./GUI assignment/10order.png">
+11.   Confirm order:<br>
+<img src="./GUI assignment/11confirm order.png">
+12.   Login:<br>
+<img src="./GUI assignment/12Login.png">
+13.   Register:<br>
+<img src="./GUI assignment/13register.png">
+14.   Feedback:<br>
+<img src="./GUI assignment/14Feedback.png">
