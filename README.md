@@ -79,3 +79,6 @@ Lại Nguyễn Minh Quân <br>
 <img src="./GUI assignment/13register.png">
 14.   Feedback:<br>
 <img src="./GUI assignment/14Feedback.png">
+
+# 3. DATABASE MODEL
+<img src="./DB_Diagram.png">
