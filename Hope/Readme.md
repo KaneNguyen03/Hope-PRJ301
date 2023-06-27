@@ -8,7 +8,7 @@ malejacket.jsp (Quân)
 womanjaket.jsp (Quân)
 gallery.jsp (Huy)
 order.jsp (Huy)
-confirm.jsp (Kha)
+confirm.jsp (Huy)
 login.jsp (Kha)
 register.jsp (Kha)
 
