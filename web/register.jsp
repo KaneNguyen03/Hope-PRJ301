@@ -9,8 +9,6 @@
 <html>
 <head>
 <title>Mihstore A Ecommerce Category Flat Bootstarp Resposive Website Template | Account :: w3layouts</title>
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
 <!-- Custom Theme files -->
 <!--theme-style-->
