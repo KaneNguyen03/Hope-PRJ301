@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="SHOP-06" default="default" basedir=".">
-    <description>Builds, tests, and runs the project SHOP-06.</description>
+<project name="Hope" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Hope.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
