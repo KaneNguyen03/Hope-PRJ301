@@ -73,6 +73,7 @@
                 <!--Header - top -->
                 <!--Header - Bottom -->
             <jsp:include page="header/header-bottom1.jsp"></jsp:include>
+<<<<<<< HEAD
 
                 <!--body-->
                 <div classname="body">
@@ -100,6 +101,9 @@
                                         <p class="text-sm font-medium text-gray-900">chưa có</p>
                                     </div> 
                                 </div>
+=======
+                <!-- Button trigger modal -->
+>>>>>>> 8a9ca5b3912ab3750c267b80b63809722de8215e
 
                                 <div class="group relative">
                                     <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
