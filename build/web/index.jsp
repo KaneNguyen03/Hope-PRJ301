@@ -74,9 +74,7 @@
                 <!--Header - top -->
                 <!--Header - Bottom -->
             <jsp:include page="header/header-bottom1.jsp"></jsp:include>
-
-           
-
+                <!-- Button trigger modal -->
 
                 <footer>
                 <jsp:include page="footer/footerlevel1.jsp"></jsp:include>
