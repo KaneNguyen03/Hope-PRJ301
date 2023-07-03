@@ -147,7 +147,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="bottom-grid">
 						<div class="col-md-3 store-top">
 							<div class="bottom-grid-top">
-								<a href="single.html"><img class="img-responsive" src="images/sh4.png" alt="" >
+								<a href="single.jsp"><img class="img-responsive" src="images/sh4.png" alt="" >
 								<div class="five">
 								<h6 >-50%</h6>
 								</div>

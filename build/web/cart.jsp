@@ -174,8 +174,8 @@
       </button>
     </div>
 <!--      DELETE-->
-      <button class="flex-none flex items-center justify-center w-50 h-12 bg-red-500 text-black border border-red-500 rounded-full" type="button" aria-label="Remove Product">
-  <span class="ml-2 text-black font-bold">X - Remove Product</span>
+      <button class="flex-none flex items-center justify-center w-48 h-8 bg-red-500 text-black border border-red-500 rounded-full" type="button" aria-label="Remove Product">
+  <span class="ml-2 text-black font-bold">Remove Product</span>
 </button>
 
 
