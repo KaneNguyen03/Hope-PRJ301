@@ -67,20 +67,244 @@
 
     </head>
     <body> 
-        <!--header-->
         <div class="">
             <!--Header - top-->
             <jsp:include page="header/header-top1.jsp"></jsp:include>
                 <!--Header - top -->
                 <!--Header - Bottom -->
             <jsp:include page="header/header-bottom1.jsp"></jsp:include>
+                <!--body-->
+                <div classname="body">
+                    <div style="background-color: #E6E6FA">
+                        <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
+                            <h2 class="text-2xl font-bold tracking-tight text-gray-900">Featured products</h2>
 
-           
+                            <!--item list-->
+                            <div class="mt-6 grid grid-cols-4 gap-x-6 gap-y-6 sm:grid-cols-4 lg:grid-cols-4 xl:gap-x-8">
+                                <!--item-->
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-1.jpg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+                <!-- Button trigger modal -->
 
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-2.jpg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
 
-                <footer>
-                <jsp:include page="footer/footerlevel1.jsp"></jsp:include>
-            </footer>
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-3.jpg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-4.jpg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-1.jpeg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-2.jpeg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/HDN-2.jpeg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/HDN-1.jpeg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/UNISEX-4.jpeg" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/UNISEX-3.webp" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/UNISEX-1.webp" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+
+                                <div class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/UNISEX-2.webp" alt="Front of men&#039;s Basic Tee in black." class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div class="mt-4 flex justify-between">
+                                        <div>
+                                            <h3 class="text-sm text-gray-700">
+                                                <a style="color: black; text-decoration: none" href="#">
+                                                    <span aria-hidden="true" class="absolute inset-0"></span>
+                                                    cái này tí sửa
+                                                </a>
+                                            </h3>
+                                            <p class="mt-1 text-sm text-gray-500">chút sửa</p>
+                                        </div>
+                                        <p class="text-sm font-medium text-gray-900">chưa có</p>
+                                    </div> 
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+
+            <!--footer-->
+            <jsp:include page="footer/footerlevel1.jsp"></jsp:include>
         </div>
     </div>
     <!---->
