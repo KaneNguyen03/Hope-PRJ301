@@ -5,42 +5,6 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@ page import="java.sql.*" %>
-
-<%
-  // Lấy dữ liệu từ form đăng nhập
-  String email = request.getParameter("email");
-  String password = request.getParameter("password");
-
-  // Kết nối cơ sở dữ liệu
-  String url = "jdbc:mysql://localhost:3306/Nohope";
-  String username = "your_username";
-  String password = "your_password";
-  Connection connection = DriverManager.getConnection(url, username, password);
-
-  // Kiểm tra đăng nhập
-  String query = "SELECT * FROM Account WHERE Email=? AND Password=?";
-  PreparedStatement statement = connection.prepareStatement(query);
-  statement.setString(1, email);
-  statement.setString(2, password);
-  ResultSet resultSet = statement.executeQuery();
-
-  if (resultSet.next()) {
-    // Đăng nhập thành công
-    // Chuyển hướng đến trang cart.jsp
-    response.sendRedirect("cart.jsp");
-  } else {
-    // Đăng nhập thất bại
-    // Hiển thị thông báo lỗi
-    out.println("Invalid email or password");
-  }
-
-  // Đóng kết nối cơ sở dữ liệu
-  resultSet.close();
-  statement.close();
-  connection.close();
-%>
-
 <!DOCTYPE html>
 <html>
 <head>
