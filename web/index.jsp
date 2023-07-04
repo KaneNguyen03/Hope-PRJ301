@@ -81,35 +81,35 @@
                             <h2 style="text-align: center; font-weight: 900;">___________ Category ___________</h2>
                             <div classname="category_nav" style="display: flex; justify-content:center; align-content: center">
                                 <div class="category_btn" style="border: 1px solid antiquewhite; border-radius: 1rem; width: 10rem; height: 10rem; margin: 3rem 1rem 7rem 1rem; background: #eaefef;"</div>
-                                    <a style="border-radius: 1rem;display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;"  href="/link trang tat ca san pham">
+                                    <a style="border-radius: 1rem;display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;"  href="/productPage.jsp">
                                         <br>
                                         <div> <img src="images/jacket-category.png" alt=""></div>
                                         <div> <p style="font-weight: bold; font-size:1.5rem;">Jackets</p></div>
-                                        <div><p>All jacket product</p></div>
+                                        <div style="text-align: center"><p>All jacket product</p></div>
                                     </a>
                                 </div>
                                 <div class="category_btn" style="border: 1px solid antiquewhite; border-radius: 1rem; width: 10rem; height: 10rem; margin: 3rem 1rem 7rem 1rem; background: #eaefef;">
-                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="/link san pham cho nam">
+                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="/menProduct.jsp">
                                         <br>
                                         <div> <img src="images/men-category.png" alt=""></div>
                                         <div> <p style="font-weight: bold; font-size:1.5rem;">Men</p></div>
-                                        <div> <p>All jacket for men</p></div>
+                                        <div style="text-align: center"> <p>All jacket for men</p></div>
                                     </a>
                                 </div>
                                 <div class="category_btn" style="border: 1px solid antiquewhite; border-radius: 1rem; width: 10rem; height: 10rem; margin: 3rem 1rem 7rem 1rem; background: #eaefef;">
-                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="/link san pham cho nu">
+                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="/womenProduct.jsp">
                                         <br>
                                         <div> <img src="images/women-category.png" alt=""></div>
                                         <div> <p style="font-weight: bold; font-size:1.5rem;">Women</p></div>
-                                        <div> <p>All jacket for women</p></div>
+                                        <div style="text-align: center"> <p>All jacket for women</p></div>
                                     </a>
                                 </div>
                                 <div class="category_btn" style="border: 1px solid antiquewhite; border-radius: 1rem; width: 10rem; height: 10rem; margin: 3rem 1rem 7rem 1rem; background: #eaefef;">
-                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="/link san pham unisex">
+                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="/unisexProduct.jsp">
                                         <br>
                                         <div> <img src="images/couple-category.png" alt=""></div>
                                         <div> <p style="font-weight: bold; font-size:1.5rem;">Unisex</p></div>
-                                        <div> <p>All unisex product</p></div>
+                                        <div style="text-align: center"> <p>All unisex product</p></div>
                                     </a>
                                 </div>
                             </div>
