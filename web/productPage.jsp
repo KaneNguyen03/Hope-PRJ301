@@ -85,7 +85,7 @@
                                 <!--item-->
                                 <div style="background-color: white;" class="group relative">
                                     <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
-                                        <img src="images/AKN-5.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                        <img src="images/AKN-1.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
                                         <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
@@ -104,7 +104,7 @@
 
                                 <div style="background-color: white;" class="group relative">
                                     <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
-                                        <img src="images/AKN-6.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                        <img src="images/AKN-2.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
                                         <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
@@ -120,7 +120,329 @@
                                     </div> 
                                 </div>
 
-                                -
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-3.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-4.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-5.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-6.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-7.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-8.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKN-5.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-4.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/HDN-1.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/HDN-2.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/JEAN-1.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-1.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-2.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-3.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-5.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-6.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-7.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
+                                <div style="background-color: white;" class="group relative">
+                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
+                                        <img src="images/AKW-8.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
+                                    </div>
+                                    <div style="text-align: center">
+                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around">
+                                        <div style="padding:2%">
+                                            <p class="text-gray-900 font-medium">299.000</p> 
+                                        </div>
+                                        <span style="width:30%"></span>
+                                        <div class="rounded-lg border-2 border-black" style=" padding:4%;">                                         
+                                            <input name="productName" value="Add" type="submit">
+                                        </div>                                                                              
+                                    </div> 
+                                </div>
+                                
                             </div> 
                         </div>
                     </div>
