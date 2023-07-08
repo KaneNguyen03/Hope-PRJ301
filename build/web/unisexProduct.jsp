@@ -19,6 +19,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+        <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
         <script src="https://cdn.tailwindcss.com"></script>
         <!--fonts-->
         <link href='http://fonts.googleapis.com/css?family=Cabin:400,500,600,700' rel='stylesheet' type='text/css'>
@@ -124,7 +125,7 @@
                                         <img src="images/UNISEX-1.webp" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
@@ -142,7 +143,7 @@
                                         <img src="images/UNISEX-2.webp" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
@@ -160,7 +161,7 @@
                                         <img src="images/UNISEX-3.webp" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
@@ -178,7 +179,7 @@
                                         <img src="images/UNISEX-4.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
@@ -196,7 +197,7 @@
                                         <img src="images/UNISEX-5.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
@@ -214,7 +215,7 @@
                                         <img src="images/UNISEX-6.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
@@ -232,7 +233,7 @@
                                         <img src="images/UNISEX-7.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
@@ -250,7 +251,7 @@
                                         <img src="images/UNISEX-8.jpeg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
