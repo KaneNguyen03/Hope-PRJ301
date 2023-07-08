@@ -77,6 +77,42 @@
                 <div classname="body">
                     <div style="background-color: whitesmoke">
                         <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
+                            <!--category-->
+                            <h2 style="text-align: center; font-weight: 900;">___________ Category ___________</h2>
+                            <div classname="category_nav" style="display: flex; justify-content:center; align-content: center">
+                                <div class="category_btn" style="border: 1px solid antiquewhite; border-radius: 1rem; width: 10rem; height: 10rem; margin: 3rem 1rem 7rem 1rem; background: #eaefef;"</div>
+                                    <a style="border-radius: 1rem;display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;"  href="./index.jsp">
+                                        <br>
+                                        <div> <img src="images/home_category.jpg" alt=""></div>
+                                        <div> <p style="font-weight: bold; font-size:1.5rem;">Home</p></div>
+                                        <div style="text-align: center"><p>Featured Product</p></div>
+                                    </a>
+                                </div>
+                                <div class="category_btn" style="border: 1px solid antiquewhite; border-radius: 1rem; width: 10rem; height: 10rem; margin: 3rem 1rem 7rem 1rem; background: #eaefef;">
+                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="./productPage.jsp">
+                                        <br>
+                                        <div> <img src="images/jacket-category.png" alt=""></div>
+                                        <div> <p style="font-weight: bold; font-size:1.5rem;">Jackets</p></div>
+                                        <div style="text-align: center"> <p>All jacket product</p></div>
+                                    </a>
+                                </div>
+                                <div class="category_btn" style="border: 1px solid antiquewhite; border-radius: 1rem; width: 10rem; height: 10rem; margin: 3rem 1rem 7rem 1rem; background: #eaefef;">
+                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="./womenProduct.jsp">
+                                        <br>
+                                        <div> <img src="images/women-category.png" alt=""></div>
+                                        <div> <p style="font-weight: bold; font-size:1.5rem;">Women</p></div>
+                                        <div style="text-align: center"> <p>All jacket for women</p></div>
+                                    </a>
+                                </div>
+                                <div class="category_btn" style="border: 1px solid antiquewhite; border-radius: 1rem; width: 10rem; height: 10rem; margin: 3rem 1rem 7rem 1rem; background: #eaefef;">
+                                    <a style="border-radius: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column; text-decoration: none; color: black;" href="./unisexProduct.jsp">
+                                        <br>
+                                        <div> <img src="images/couple-category.png" alt=""></div>
+                                        <div> <p style="font-weight: bold; font-size:1.5rem;">Unisex</p></div>
+                                        <div style="text-align: center"> <p>All unisex product</p></div>
+                                    </a>
+                                </div>
+                            </div>
                             <!--thêm nút sort ở đây-->
                             <!--item list-->
                             <h2 class="text-2xl font-bold tracking-tight text-gray-900">Jackets for Men</h2>                         
@@ -88,7 +124,7 @@
                                         <img src="images/AKN-1.jpg" alt="" class="h-full w-full object-cover object-center lg:h-full lg:w-full">
                                     </div>
                                     <div style="text-align: center">
-                                        <a href="link toi product detail" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
+                                        <a href="./productDetails.jsp" style="text-decoration: none; color: black; font-weight: bold">Fashion Men Jacket - MMMOSM</a>
                                     </div>
                                     <div style="display: flex; justify-content: space-around">
                                         <div style="padding:2%">
